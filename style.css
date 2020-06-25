@@ -1,0 +1,149 @@
+
+h2{
+	font-weight: bold;
+	font-size: 42px;
+	color: #fff;
+}
+
+#container{
+	width: 96%;
+}
+#banner{
+	width: 100%;
+	height: 600px;
+	background-image: url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
+	background-size: cover;
+}
+#start{
+	font-size: 20px;
+	text-align: center;
+}
+.form-control{
+	width: 80%;
+	margin-left: 20%;
+
+}
+#header{
+	background-color: #f7f7f7;
+	padding: 0;
+}
+#intro{
+	background-color: #f7f7f7;
+}
+.card{
+    background-color: #f7f7f7;
+}
+.fa, .fab{
+	color: #088fc9;
+	font-size: 42px;
+}
+.card-body a{
+	color: #000;
+}
+#intro{
+	padding-top: 50px;
+}
+.intro1{
+	width: 80%;
+	
+}
+.col-md-6{
+	padding: 0;
+}
+#info{
+	background-color: #f7f7f7;
+
+}
+#info h3{
+	padding-top: 50px;
+}
+.card{
+	padding-top: 50px;
+}
+.rounded-circle{
+	width: 150px;
+	margin: auto;
+	border-radius: 50%:;
+	height: 150px;
+}
+#footer{
+	width: 100%;
+	height: 290px;
+	background: url(img/bg1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	align-items: center;
+	justify-content: center;
+}
+.footer{
+	padding-top: 100px;
+}
+#contact{
+	background-color: #f7f7f7;
+	padding-top: 50px;
+	width: 100%;
+	margin: auto;
+}
+#content img{
+	width: 100%;
+}
+
+.img-fluid{
+	width: 100%;
+	padding: 0;
+}
+#social i{
+	padding-left: 40px;
+}
+.first{
+	padding-left: 0;
+}
+.carousel-caption{
+	padding-bottom: 10%;
+}
+.about{
+	width: 100%;
+}
+nav{
+	width: 70%;
+	margin: auto;
+}
+}
+@media (max-width: 992px){
+    h2{
+	font-weight: bold;
+	font-size: 42px;
+	color: #fff;
+}
+}
+@media (max-width: 768px){
+    h2{
+	font-weight: bold;
+	font-size: 36px;
+	color: #fff;
+}
+}
+@media (max-width: 500px){
+    h2{
+	font-weight: bold;
+	font-size: 28px;
+	color: #fff;
+}
+.btn{
+	width: 100%;
+}
+.form-control{
+	width: 100%;
+    margin: auto;
+}
+.carousel-caption{
+	width: 50%;
+	margin: auto;
+	padding: 0;
+}
+
+#banner img{
+	height: 500px;
+}
+}
